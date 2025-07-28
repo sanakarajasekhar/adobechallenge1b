@@ -1,0 +1,4 @@
+PyMuPDF==1.23.7
+faiss-cpu
+sentence-transformers==2.2.2
+torch>=1.12.1
